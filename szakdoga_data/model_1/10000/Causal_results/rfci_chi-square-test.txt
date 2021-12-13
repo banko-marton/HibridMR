@@ -1,0 +1,10 @@
+Graph Nodes:
+node_0;node_1;node_2;node_3;node_4
+
+Graph Edges:
+1. node_3 --> node_4 dd nl
+2. node_1 --> node_4 pd pl
+3. node_0 o-> node_3
+4. node_1 o-> node_3
+5. node_2 o-> node_3
+
