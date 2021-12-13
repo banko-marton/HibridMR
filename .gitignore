@@ -149,5 +149,4 @@ fabric.properties
 
 # project-specific
 data/*/
-results/
 run_*.py
