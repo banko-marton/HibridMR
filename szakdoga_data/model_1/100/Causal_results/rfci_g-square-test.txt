@@ -1,6 +1,0 @@
-Graph Nodes:
-node_0;node_1;node_2;node_3;node_4
-
-Graph Edges:
-1. node_4 o-o node_3
-

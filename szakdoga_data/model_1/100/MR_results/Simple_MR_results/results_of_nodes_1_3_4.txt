@@ -1,4 +1,0 @@
-beta	SE	wald_p_val	beta_logreg	SE_logreg	wald_p_val_logreg
-1.3876300548615887	0.394529266210682	0.00043615952322104194	-1.5936845749695656	0.2927091660419726	5.1921679988330365e-08
-Edge from gene to exposure in original model: True
-Edge from exposure to outcome in original model: True
